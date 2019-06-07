@@ -1,0 +1,186 @@
+# Your name
+name: Randall
+# Your GitHub profile picture
+avatar: ran-dall size=120
+# h-card profile picture
+u-photo: https://gravatar.com/avatar/f43a2f1a822a0171ddad91686a03a773?s=350
+    # Gravatar
+    # Gravatar Picture Link Generator: https://codepen.io/TimPietrusky/pen/xfdKD
+# Your contact details
+contact:
+  - profile: General Sorcery
+    network: headmaster
+    user-id: HEADMASTER @ Medium
+    link: https://medium.com/sorcery
+    icon: <i class="fas fa-hat-wizard"></i>
+    h-card: 
+        class: u-url
+        rel: me
+
+  - profile: General Email
+    network: headmaster
+    user-id: randall@headmaster.io
+    link: mailto:randall@headmaster.io
+    icon: <i class="fas fa-envelope"></i>   
+    h-card: 
+        class: u-email
+
+  - profile: G Suite
+    network: google
+    user-id: randall@headmaster.io
+    link: mailto:randall@headmaster.io
+    icon: <i class="fab fa-google"></i>
+
+  - profile: Laborings
+    network: work
+    user-id: Conjured
+    link: https://conjured.io
+    icon: <i class="fas fa-dragon"></i>
+    h-card: 
+        class: u-org u-url
+
+  - profile: Work Email
+    network: work
+    user-id: randall@conjured.io
+    link: mailto:randall@conjured.io
+    icon: <i class="fas fa-envelope-open"></i>
+    h-card: 
+        class: u-email
+
+  - profile: G Suite
+    network: google
+    user-id: randall@conjured.io
+    link: mailto:randall@conjured.io
+    icon: <i class="fab fa-google"></i>
+
+  - profile: iCloud
+    network: icloud
+    user-id: ran.dall@icloud.com
+    link: mailto:ran.dall@icloud.com
+    icon: <i class="fas fa-at"></i>
+    h-card: 
+        class: u-email
+
+  - profile: Google
+    network: google
+    user-id: ran.dall@icloud.com
+    link: mailto:ran.dall@icloud.com
+    icon: <i class="fab fa-google"></i>
+
+  - profile: Secure Email
+    network: s-email
+    user-id: randall@criptext.com
+    link: mailto:randall@criptext.com
+    icon: <i class="fas fa-lock"></i>
+    h-card: 
+        class: u-email
+
+  - profile: Medium
+    network: medium
+    user-id: ran.dall
+    link: https://medium.com/@ran.dall
+    icon: <i class="fab fa-medium-m"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: Github
+    network: github
+    user-id: ran-dall
+    link: https://github.com/ran-dall
+    icon: <i class="fab fa-github-alt"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: Gitlab
+    network: gitlab
+    user-id: .randall
+    link: https://gitlab.com/.randall
+    icon: <i class="fab fa-gitlab"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: Bitbucket
+    network: bitbucket
+    user-id: ran-dall
+    link: https://bitbucket.org/ran-dall/
+    icon: <i class="fab fa-bitbucket"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: Keybase
+    network: keybase
+    user-id: randall_
+    link: https://keybase.io/randall_
+    icon: <i class="fab fa-keybase"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: RubyGems
+    network: rubygems
+    user-id: randall
+    link: https://rubygems.org/profiles/randall
+    icon: <i class="fas fa-gem"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: Dribbble
+    network: dribbble
+    user-id: _randall
+    link: https://dribbble.com/_randall
+    icon: <i class="fab fa-dribbble"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: Behance
+    network: behance
+    user-id: ran-dall
+    link: https://www.behance.net/ran-dall
+    icon: <i class="fab fa-behance"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: Telegram
+    network: telegram
+    user-id: r_andall
+    link: https://t.me/r_andall
+    icon: <i class="fab fa-telegram-plane"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: Angellist
+    network: angellist
+    user-id: _randall
+    link: https://angel.co/_randall
+    icon: <i class="fab fa-angellist"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me
+
+  - profile: LinkedIn
+    network: linkedin
+    user-id: Randall T. Vasquez
+    link: https://www.linkedin.com/in/randall-t-vasquez-627bb755/
+    icon: <i class="fab fa-linkedin"></i>
+    h-card: 
+        class: u-url
+        secondary-class: p-nickname
+        rel: me

@@ -1,0 +1,14 @@
+/* =============================================================================
+HELPERS
+============================================================================= */
+%icon {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.nolink, .nolink:hover, .nolink:focus, .nolink:active, .nolink:visited {
+    color: inherit !important;
+    text-decoration: inherit !important;
+    cursor: inherit !important;
+    outline: none !important;
+}
