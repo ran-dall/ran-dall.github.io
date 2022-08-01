@@ -32,9 +32,9 @@ var matrixWidth = matrixWidth,
 ctx.font = fontSize + "px Arial";
 
 // Matrix
-draw = function() {
-  setInterval(rain(), speed);
-};
+// draw = function() {
+//   setInterval(rain(), speed);
+// };
 
 // One drop per column, row set randomly
 var drops = [];
